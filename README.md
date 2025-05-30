@@ -54,12 +54,12 @@ Visual comparisons of the proposed method and other methods. (a) the baseline FC
 Please cite our paper if you find the work useful:
 
     @ARTICLE{10462223,
-      author={Liu, Dongyang and Zhang, Junping and Qi, Yunxiao and Wu, Yinhu and Zhang, Ye},
-      journal={IEEE Geoscience and Remote Sensing Letters}, 
-      title={A Tiny Object Detection Method Based on Explicit Semantic Guidance for Remote Sensing Images}, 
-      year={2024},
-      volume={},
-      number={},
-      pages={1-1},
-      doi={10.1109/LGRS.2024.3374418}}
+          author={Liu, Dongyang and Zhang, Junping and Qi, Yunxiao and Wu, Yinhu and Zhang, Ye},
+          journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+          title={Tiny Object Detection in Remote Sensing Images Based on Object Reconstruction and Multiple Receptive Field Adaptive Feature Enhancement}, 
+          year={2024},
+          volume={62},
+          number={},
+          pages={1-13},
+          doi={10.1109/TGRS.2024.3381774}}
 
