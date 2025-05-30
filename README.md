@@ -53,13 +53,23 @@ Visual comparisons of the proposed method and other methods. (a) the baseline FC
 
 Please cite our paper if you find the work useful:
 
+    @ARTICLE{10988878,
+      author={Liu, Dongyang and Zhang, Junping and Qi, Yunxiao and Xi, Yunqiao and Jin, Jing},
+      journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+      title={Exploring Lightweight Structures for Tiny Object Detection in Remote Sensing Images}, 
+      year={2025},
+      volume={63},
+      number={},
+      pages={1-15},
+      doi={10.1109/TGRS.2025.3567345}}
+
     @ARTICLE{10462223,
-          author={Liu, Dongyang and Zhang, Junping and Qi, Yunxiao and Wu, Yinhu and Zhang, Ye},
-          journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-          title={Tiny Object Detection in Remote Sensing Images Based on Object Reconstruction and Multiple Receptive Field Adaptive Feature Enhancement}, 
-          year={2024},
-          volume={62},
-          number={},
-          pages={1-13},
-          doi={10.1109/TGRS.2024.3381774}}
+      author={Liu, Dongyang and Zhang, Junping and Qi, Yunxiao and Wu, Yinhu and Zhang, Ye},
+      journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+      title={Tiny Object Detection in Remote Sensing Images Based on Object Reconstruction and Multiple Receptive Field Adaptive Feature Enhancement}, 
+      year={2024},
+      volume={62},
+      number={},
+      pages={1-13},
+      doi={10.1109/TGRS.2024.3381774}}
 
