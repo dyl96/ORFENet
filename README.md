@@ -78,8 +78,8 @@ Please cite our paper if you find the work useful:
       journal={IEEE Geoscience and Remote Sensing Letters}, 
       title={A Tiny Object Detection Method Based on Explicit Semantic Guidance for Remote Sensing Images}, 
       year={2024},
-      volume={},
+      volume={21},
       number={},
-      pages={1-1},
+      pages={1-5},
       doi={10.1109/LGRS.2024.3374418}}
 
