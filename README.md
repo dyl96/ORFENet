@@ -73,13 +73,13 @@ Please cite our paper if you find the work useful:
       pages={1-13},
       doi={10.1109/TGRS.2024.3381774}}
 
-      @ARTICLE{10462223,
-          author={Liu, Dongyang and Zhang, Junping and Qi, Yunxiao and Wu, Yinhu and Zhang, Ye},
-          journal={IEEE Geoscience and Remote Sensing Letters}, 
-          title={A Tiny Object Detection Method Based on Explicit Semantic Guidance for Remote Sensing Images}, 
-          year={2024},
-          volume={},
-          number={},
-          pages={1-1},
-          doi={10.1109/LGRS.2024.3374418}}
+    @ARTICLE{10462223,
+      author={Liu, Dongyang and Zhang, Junping and Qi, Yunxiao and Wu, Yinhu and Zhang, Ye},
+      journal={IEEE Geoscience and Remote Sensing Letters}, 
+      title={A Tiny Object Detection Method Based on Explicit Semantic Guidance for Remote Sensing Images}, 
+      year={2024},
+      volume={},
+      number={},
+      pages={1-1},
+      doi={10.1109/LGRS.2024.3374418}}
 
